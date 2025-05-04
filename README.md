@@ -1,4 +1,4 @@
-# 🚀 Furia-Chatbot
+# Furia-Chatbot 🐾
 
 Um chatbot moderno e interativo desenvolvido com Next.js, TypeScript e OpenAI, com uma interface bonita e responsiva.
 
